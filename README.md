@@ -2,8 +2,8 @@
 
 Introduction à git
 
-test d'ajout de contenu a un fichier
+Test d'ajout de contenu a un fichier
 
-test d'ajout avec github
+Test d'ajout avec github
 
-nouvelle branche dev
+Nouvelle branche dev
